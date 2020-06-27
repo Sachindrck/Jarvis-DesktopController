@@ -1,6 +1,6 @@
 # Remote-Control
 
-<img src = "https://github.com/Sachindrck/Jarvis-DesktopController/blob/master/home.PNG">
+<img src = "https://github.com/Sachindrck/Jarvis-DesktopController/blob/master/home.jpeg">
 
 Today, all you need to do is push a button on the remote control to flip back and forth between hundreds of channels. Many of the things you use every day can probably be controlled remotely. From garage door openers and toy cars to lights and stereo equipment, it's easier than ever to control things from afar.
 The growing laziness and curiosity in humans to simplify tasks (automation) have been the cause of many new inventions.
@@ -11,6 +11,10 @@ Example 1 - A person working from home suddenly goes to the nearby market to bri
 Example 2 - If we want to send some links from mobile to laptop, then we have to use either Mail or WhatsApp, but we can simplify this by using the desktop controller.
 
 Example 3 - other features such as volume control, note saving, CPU, and battery statistics are also available.
+
+## Functionality
+
+<img src = "https://github.com/Sachindrck/Jarvis-DesktopController/blob/master/function.jpeg">
 
 ## Steps to run
 
@@ -24,3 +28,7 @@ Start client on pc
 python client.py <clientname>
 ```
 Open http://desktopcontrol.azurewebsites.net and enter clientname by which you started client and click connect and use
+
+## Mobile view
+
+<img src = "https://github.com/Sachindrck/Jarvis-DesktopController/blob/master/mobile.jpeg">
