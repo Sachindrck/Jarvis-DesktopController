@@ -1,6 +1,6 @@
 # Remote-Control
 
-<img src = "https://github.com/Sachindrck/Jarvis-DesktopController/blob/master/home.jpeg">
+<img src = "https://github.com/Sachindrck/Jarvis-DesktopController/blob/master/img/home.jpeg">
 
 Today, all you need to do is push a button on the remote control to flip back and forth between hundreds of channels. Many of the things you use every day can probably be controlled remotely. From garage door openers and toy cars to lights and stereo equipment, it's easier than ever to control things from afar.
 The growing laziness and curiosity in humans to simplify tasks (automation) have been the cause of many new inventions.
@@ -14,7 +14,7 @@ Example 3 - other features such as volume control, note saving, CPU, and battery
 
 ## Functionality
 
-<img src = "https://github.com/Sachindrck/Jarvis-DesktopController/blob/master/function.jpeg">
+<img src = "https://github.com/Sachindrck/Jarvis-DesktopController/blob/master/img/function.jpeg">
 
 ## Steps to run
 
@@ -31,4 +31,4 @@ Open http://desktopcontrol.azurewebsites.net and enter clientname by which you s
 
 ## Mobile view
 
-<img src = "https://github.com/Sachindrck/Jarvis-DesktopController/blob/master/mobile.jpeg">
+<img src = "https://github.com/Sachindrck/Jarvis-DesktopController/blob/master/img/mobile.jpeg">
